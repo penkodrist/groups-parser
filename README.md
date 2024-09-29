@@ -5,7 +5,7 @@ Heavy script for parsing info about group's ids and names.
 
 **How it works**
 
-Loading every possible id (defaul: 1 - 999) and adding parsed info into JSON. May ban your IP address if too many requests were sent. Default path for JSON file is `output/bincol_groups.json`
+Loading every possible URL with id (defaul: 1 - 999) and adding parsed info into JSON. May ban your IP address if too many requests were sent. Default path for JSON file is `output/bincol_groups.json`
 # gparse_lite.js
 Lite script for the same goal to parse groups' info.
 
